@@ -57,8 +57,8 @@ This repository contains a simple **UiPath workflow** that demonstrates:
 ---
 
 ## Output Screenshot
-> (Replace below with your own UiPath Output/Excel screenshots)
+<img width="1920" height="1080" alt="Screenshot 2025-09-05 224334" src="https://github.com/user-attachments/assets/c2e7ff07-0c19-40c2-8f13-7b63d424d5bc" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-05 224341" src="https://github.com/user-attachments/assets/c2d094cb-a537-4442-89fb-352ad0d81b76" />
 
-<img width="900" alt="Excel ReadWrite Demo Output" src="https://github.com/user-attachments/assets/sample_excel.png" />
 
 ---
